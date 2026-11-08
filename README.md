@@ -2,17 +2,7 @@
   <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1zdHJ2cnQxc21rcGt4bmV1N3dybWY2NXA5MzlvMTE5dG91N284YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uWMwQYgYVHVGU/giphy.gif"  />
 </div>
 
-###
 
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8B0000"  />
-</div>
-
-###
-
-<br clear="both">
 
 <h1 data-importer="text" align="left">Hi, I'm Aghniya!</h1>
 
@@ -60,9 +50,7 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src = "https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" /> <img src = "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/> <img src = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src = "https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> <img src = "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 </div>
 
 ###
@@ -92,22 +80,10 @@
 <br clear="both">
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/pacman-contribution-graph.svg"
-  />
-
-  <img
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/pacman-contribution-graph.svg"
-    width="100%"
-  />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 
