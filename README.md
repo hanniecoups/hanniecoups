@@ -1,18 +1,16 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1zdHJ2cnQxc21rcGt4bmV1N3dybWY2NXA5MzlvMTE5dG91N284YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uWMwQYgYVHVGU/giphy.gif"  />
-</div>
-
-
-
 <h1 data-importer="text" align="left">Hi, I'm Aghniya!</h1>
 
+<div data-importer="image" align="center">
+  <img data-importer="image" width="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1zdHJ2cnQxc21rcGt4bmV1N3dybWY2NXA5MzlvMTE5dG91N284YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uWMwQYgYVHVGU/giphy.gif"  />
+</div>
+
 ###
 
-<h3 data-importer="text" align="left">UI/UX Designer · Front-End Developer · Aspiring Back-End Developer</h3>
+>UI/UX Designer · Front-End Developer
 
 ###
 
-<p data-importer="text" align="left">I'm an Information Systems student with an interest in creating meaningful digital experiences through design and technology.<br><br>I enjoy transforming ideas into intuitive user interfaces and bringing them to life through front-end development. Currently, I'm expanding my knowledge in back-end development, exploring Python and PHP to better understand how applications work behind the scenes.<br><br>I believe great digital products are built through the balance of creativity, functionality, and thoughtful problem-solving.</p>
+<p data-importer="text" align="left">I'm an Information Systems student passionate about creating intuitive digital experiences through design and technology.</p>
 
 ###
 
@@ -20,17 +18,16 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Information Systems Student<br><br>🎨 Interested in UI/UX Design and Digital Product Design<br><br>💻 Front-End Developer with a focus on building responsive interfaces<br><br>🌱 Currently learning Python and PHP for Back-End Development<br><br>🧩 Enjoy exploring ideas, solving problems, and creating digital experiences<br><br>🚀 Always curious about learning new technologies and improving my skills</p>
+🎓 Information Systems Student
+
+🎨 UI/UX & Digital Product Design
+
+💻 Front-End Development
+
+🌱 Learning Python & PHP
 
 ###
 
-<h3 data-importer="text" align="left">WHAT I'M WORKING ON</h3>
-
-###
-
-<p data-importer="text" align="left">1. Improving my UI/UX design and prototyping skills.<br><br>2. Building responsive and interactive web interfaces.<br><br>3. Exploring back-end fundamentals using Python and PHP.<br><br>4. Developing personal projects that combine design and technology.</p>
-
-###
 
 <h3 data-importer="text" align="left">CONNECT</h3>
 
