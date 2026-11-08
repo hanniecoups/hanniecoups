@@ -72,14 +72,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=hanniecoups.hanniecoups&left_color=black&right_color=darkred&left_text=Code-Voyager"  />
 </div>
 
-###
-
 <br clear="both">
-
-
-
-<br clear="both">
-
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanniecoups/hanniecoups/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
