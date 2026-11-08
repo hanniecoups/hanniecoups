@@ -59,10 +59,6 @@
   <img src="https://raw.githubusercontent.com/hanniecoups/hanniecoups/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=false&order=5&custom_title=CONTRIBUTION&color=FF4A4A&line=8B0000&point=FF4A4A&area_color=541D1D&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=hanniecoups.hanniecoups&left_color=black&right_color=darkred&left_text=Code-Voyager"  />
 </div>
@@ -71,11 +67,7 @@
 
 <br clear="both">
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8B0000"  />
-</div>
 
-###
 
 <br clear="both">
 
